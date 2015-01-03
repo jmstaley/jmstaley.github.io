@@ -34,3 +34,6 @@ RELATIVE_URLS = True
 
 PROFILE_IMG_URL='/images/avatar.png'
 DISQUS_SITENAME='jonstaley.disqus.com'
+
+STATIC_PATHS=['images', 'extra/CNAME']
+EXTRA_PATH_METADATA={'extra/CNAME': {'path': 'CNAME'},}

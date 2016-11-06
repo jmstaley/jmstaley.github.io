@@ -34,7 +34,7 @@ RELATIVE_URLS = True
 
 PROFILE_IMG_URL='/images/avatar.png'
 
-STATIC_PATHS=['images', 'extra/CNAME']
+STATIC_PATHS=['images', 'extra/CNAME', 'docs']
 EXTRA_PATH_METADATA={'extra/CNAME': {'path': 'CNAME'},}
 
 OUTPUT_PATH = 'output'

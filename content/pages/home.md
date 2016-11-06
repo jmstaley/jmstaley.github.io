@@ -16,6 +16,8 @@ Technology I've enjoyed working with:
 
 Email me on ```jmstaley AT gmail DOT com```
 
+Download a [PDF version of my CV]({filename}/docs/jonstaley.pdf)
+
 ### Elsewhere:
 
  * [Github](https://github.com/jmstaley)

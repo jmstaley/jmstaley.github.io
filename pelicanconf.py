@@ -33,7 +33,13 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 PROFILE_IMG_URL='/images/avatar.png'
-DISQUS_SITENAME='jonstaley.disqus.com'
 
 STATIC_PATHS=['images', 'extra/CNAME']
 EXTRA_PATH_METADATA={'extra/CNAME': {'path': 'CNAME'},}
+
+OUTPUT_PATH = 'output'
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+PAGE_URL = 'output/{slug}.html'
+PAGE_SAVE_AS = 'output/{slug}.html'
+MENUITEMS = []
